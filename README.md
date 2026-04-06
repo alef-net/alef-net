@@ -8,10 +8,8 @@ I'm Alerson Ferreira, a Front-End Programmer, currently learning and creating pr
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Connect with me: <br>
-<a href="https://www.linkedin.com/in/alerson-ferreira-2367233b8/">
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-  
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alerson-ferreira-2367233b8/)
+ 
 
 <!--
 **alef-net/alef-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
